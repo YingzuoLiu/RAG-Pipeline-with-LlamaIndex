@@ -1,4 +1,4 @@
-# DeepSeek RAG Pipeline
+# Retrieval Augmented Generation Pipeline with LlamaIndex and DeepSeek
 
 使用DeepSeek 1.3B和LlamaIndex构建的检索增强生成(RAG)系统，用于智能文档检索和问答。
 
