@@ -1,0 +1,14 @@
+# requirements.txt
+llama-index==0.9.11
+transformers==4.30.0
+sentence-transformers==2.2.2
+torch==2.0.0
+accelerate==0.23.0
+pypdf==3.15.1
+pandas==2.0.3
+matplotlib==3.7.2
+numpy==1.24.3
+faiss-cpu==1.7.4
+chromadb==0.4.13
+jupyter==1.0.0
+python-dotenv==1.0.0

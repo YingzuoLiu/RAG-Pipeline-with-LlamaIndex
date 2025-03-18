@@ -1,0 +1,6 @@
+query,hit,rank,reciprocal_rank,top_node_score,retrieved_count
+What advice does Paul Graham have for early stage entrepreneurs?,True,1.0,1.0,0.4262787699699402,5
+What are the advantages of programming languages?,True,1.0,1.0,0.2956334054470062,5
+How to identify promising startup ideas?,True,2.0,0.5,0.30446046590805054,5
+What are Paul Graham's views on venture capital?,True,1.0,1.0,0.3598160743713379,5
+Why is Silicon Valley the center of tech innovation?,False,,0.0,0.5205556750297546,5
